@@ -46,16 +46,16 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
   strtolower($object_name).'_type_dom' =>
   array (
     '' => '',
-    'Analyst' => 'Analyst',
-    'Competitor' => 'Competitor',
-    'Customer' => 'Customer',
-    'Integrator' => 'Integrator',
-    'Investor' => 'Investor',
-    'Partner' => 'Partner',
+    'Analyst' => 'Nhà phân tích',
+    'Competitor' => 'Đối thủ',
+    'Customer' => 'Khách hàng',
+    'Integrator' => 'Hợp tác',
+    'Investor' => 'Đầu tư',
+    'Partner' => 'Đối tác',
     'Press' => 'Press',
-    'Prospect' => 'Prospect',
-    'Reseller' => 'Reseller',
-    'Other' => 'Other',
+    'Prospect' => 'Triển vọng',
+    'Reseller' => 'Đại lý',
+    'Other' => 'Khác',
   ),
 
   );

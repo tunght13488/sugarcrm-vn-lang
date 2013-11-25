@@ -36,5 +36,5 @@
 
 $mod_strings = array(
 'LBL_ASSIGNED_TO_ID'=>'Assigned User Id',
-'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
+'LBL_ASSIGNED_TO_NAME' => 'Giao cho người dùng ',
 );

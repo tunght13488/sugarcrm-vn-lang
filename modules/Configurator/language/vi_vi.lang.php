@@ -57,7 +57,7 @@ $mod_strings = array (
 	'DEFAULT_THEME'=> 'Default theme',
 	'DEFAULT_TIME_FORMAT'=>'Default time format',
 /*	'DISABLE_EXPORT'=>'Disable export',*/
-	'DISPLAY_RESPONSE_TIME'=>'Display server response times',
+	'DISPLAY_RESPONSE_TIME'=>'Hiển thị thời gian server phản hồi',
 	/*'EXPORT'=>'Export',
 	'EXPORT_CHARSET' => 'Default Export Character Set',
 	'EXPORT_DELIMITER' => 'Export Delimiter',*/
@@ -432,7 +432,6 @@ To configure additional system settings, click <a href="index.php?module=Adminis
 	'LBL_WELCOME' => 'Welcome' /*for 508 compliance fix*/,
 	'LBL_LOGO' => 'Logo' /*for 508 compliance fix*/,
     'LBL_MOBILE_MOD_REPORTS_RESTRICTION' => '* The Reports module is only available for the Sugar Mobile native clients',
-    'LBL_ENABLE_HISTORY_CONTACTS_EMAILS' => 'Show related contacts\' emails in History subpanel for modules',
 );
 
 

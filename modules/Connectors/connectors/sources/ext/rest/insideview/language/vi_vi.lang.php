@@ -1,53 +1,47 @@
 <?php
 if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
+
+
 /*********************************************************************************
- * SugarCRM Community Edition is a customer relationship management program developed by
- * SugarCRM, Inc. Copyright (C) 2004-2013 SugarCRM Inc.
- * 
- * This program is free software; you can redistribute it and/or modify it under
- * the terms of the GNU Affero General Public License version 3 as published by the
- * Free Software Foundation with the addition of the following permission added
- * to Section 15 as permitted in Section 7(a): FOR ANY PART OF THE COVERED WORK
- * IN WHICH THE COPYRIGHT IS OWNED BY SUGARCRM, SUGARCRM DISCLAIMS THE WARRANTY
- * OF NON INFRINGEMENT OF THIRD PARTY RIGHTS.
- * 
- * This program is distributed in the hope that it will be useful, but WITHOUT
- * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
- * FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more
- * details.
- * 
- * You should have received a copy of the GNU Affero General Public License along with
- * this program; if not, see http://www.gnu.org/licenses or write to the Free
- * Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
- * 02110-1301 USA.
- * 
- * You can contact SugarCRM, Inc. headquarters at 10050 North Wolfe Road,
- * SW2-130, Cupertino, CA 95014, USA. or at email address contact@sugarcrm.com.
- * 
- * The interactive user interfaces in modified source and object code versions
- * of this program must display Appropriate Legal Notices, as required under
- * Section 5 of the GNU Affero General Public License version 3.
- * 
- * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "Powered by
- * SugarCRM" logo. If the display of the logo is not reasonably feasible for
- * technical reasons, the Appropriate Legal Notices must display the words
- * "Powered by SugarCRM".
+ * The contents of this file are subject to the SugarCRM Master Subscription
+ * Agreement ("License") which can be viewed at
+ * http://www.sugarcrm.com/crm/master-subscription-agreement
+ * By installing or using this file, You have unconditionally agreed to the
+ * terms and conditions of the License, and You may not use this file except in
+ * compliance with the License.  Under the terms of the license, You shall not,
+ * among other things: 1) sublicense, resell, rent, lease, redistribute, assign
+ * or otherwise transfer Your rights to the Software, and 2) use the Software
+ * for timesharing or service bureau purposes such as hosting the Software for
+ * commercial gain and/or for the benefit of a third party.  Use of the Software
+ * may be subject to applicable fees and any use of the Software without first
+ * paying applicable fees is strictly prohibited.  You do not have the right to
+ * remove SugarCRM copyrights from the source code or user interface.
+ *
+ * All copies of the Covered Code must include on each user interface screen:
+ *  (i) the "Powered by SugarCRM" logo and
+ *  (ii) the SugarCRM copyright notice
+ * in the same form as they appear in the distribution.  See full license for
+ * requirements.
+ *
+ * Your Warranty, Limitations of liability and Indemnity are expressly stated
+ * in the License.  Please refer to the License for the specific language
+ * governing these rights and limitations under the License.  Portions created
+ * by SugarCRM are Copyright (C) 2004-2011 SugarCRM, Inc.; All Rights Reserved.
  ********************************************************************************/
 
+	
 
 $connector_strings = array (
-    'LBL_GET_STARTED' => 'Get Started!',
-    'LBL_TOS0' => 'I agree to InsideView\'s  ',
-    'LBL_TOS1' => 'Terms of Use',
-    'LBL_TOS3' => 'Privacy Policy',
-    'iv_description0' => 'By clicking "Get Started" you agree to InsideView\'s',
-    'LBL_OPP' => 'Find Opportunities',
-    'LBL_OPP_SUB' => 'to reach out to customers',
-    'LBL_REFERRAL' => 'Get Referrals',
-    'LBL_REFERRAL_SUB' => 'to key decision makers',
-    'LBL_ENGAGE' => 'Engage Customers',
-    'LBL_ENGAGE_SUB' => 'with conversation starters',
+  'LBL_OPP' => 'Rechercher les affaires',
+  'LBL_OPP_SUB' => 'pour trouver de nouveau clients',
+  'LBL_REFERRAL' => 'Obtenez des informations clés',
+  'LBL_REFERRAL_SUB' => 'pour prendre les bonnes décisions',
+  'LBL_ENGAGE' => 'Gagnez de nouveaux clients',
+  'LBL_ENGAGE_SUB' => 'en démarrant rapidement des discussions avec eux',
+  'LBL_GET_STARTED' => 'Commencer !',
+  'LBL_TOS0' => 'Je suis d&#39;accord avec',
+  'LBL_TOS1' => 'les termes d&#39;utilisation InsideView',
+  'LBL_TOS3' => 'la politique de confidentialité InsideView',
+  'iv_description0' => 'Afficher les informations liées à un Compte, à ses contacts, ses news et provenant de ses médias sociaux directement dans SugarCRM.',
 );
 
-?>

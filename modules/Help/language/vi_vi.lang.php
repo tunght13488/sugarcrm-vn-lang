@@ -1,8 +1,10 @@
 <?php
 if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
+
+
 /*********************************************************************************
- * SugarCRM Community Edition is a customer relationship management program developed by
- * SugarCRM, Inc. Copyright (C) 2004-2013 SugarCRM Inc.
+ * SugarCRM is a customer relationship management program developed by
+ * SugarCRM, Inc. Copyright (C) 2004-2010 SugarCRM Inc.
  * 
  * This program is free software; you can redistribute it and/or modify it under
  * the terms of the GNU Affero General Public License version 3 as published by the
@@ -21,45 +23,32 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  * Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
  * 02110-1301 USA.
  * 
- * You can contact SugarCRM, Inc. headquarters at 10050 North Wolfe Road,
- * SW2-130, Cupertino, CA 95014, USA. or at email address contact@sugarcrm.com.
- * 
  * The interactive user interfaces in modified source and object code versions
  * of this program must display Appropriate Legal Notices, as required under
  * Section 5 of the GNU Affero General Public License version 3.
  * 
- * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
- * these Appropriate Legal Notices must retain the display of the "Powered by
- * SugarCRM" logo. If the display of the logo is not reasonably feasible for
- * technical reasons, the Appropriate Legal Notices must display the words
- * "Powered by SugarCRM".
+ * Contributor(s): www.synolia.com - sugar@synolia.com
+ * You can contact SYNOLIA at 51 avenue Jean Jaures 69007 - LYON FRANCE
+ * or at email address contact@synolia.com.
  ********************************************************************************/
 
-/*********************************************************************************
 
- * Description:  Defines the English language pack for the base application.
- * Portions created by SugarCRM are Copyright (C) SugarCRM, Inc.
- * All Rights Reserved.
- * Contributor(s): ______________________________________..
- ********************************************************************************/
 
 $mod_strings = array (
-  'LBL_MODULE_NAME' => 'Accounts',
-  'LBL_MODULE_TITLE' => 'Accounts: Home',
-  'LBL_SEARCH_FORM_TITLE' => 'Account Search',
-  'LBL_LIST_FORM_TITLE' => 'Account List',
-  'LBL_NEW_FORM_TITLE' => 'Create Account',
-  'LNK_NEW_CONTACT' => 'Create Contact',
-  'LNK_NEW_ACCOUNT' => 'Create Account',
-  'LNK_NEW_OPPORTUNITY' => 'Create Opportunity',
-  'LNK_NEW_CASE' => 'Create Case',
-  'LNK_NEW_NOTE' => 'Create Note or Attachment',
-  'LNK_NEW_CALL' => 'Log Call',
-  'LNK_NEW_EMAIL' => 'Archive Email',
-  'LNK_NEW_MEETING' => 'Schedule Meeting',
-  'LNK_NEW_TASK' => 'Create Task',
-  'ERR_DELETE_RECORD' => 'A record number must be specified to delete the account.',
+  'ERR_DELETE_RECORD' => 'Un numéro d&#39;enregistrement doit être spécifié pour toute suppression.',
+  'LBL_LIST_FORM_TITLE' => 'Liste des Comptes',
+	'LBL_MODULE_NAME'										=> 'Comptes',
+  'LBL_MODULE_NAME_SINGULAR' => 'Compte',
+	'LBL_MODULE_TITLE'										=> 'Comptes',
+	'LBL_NEW_FORM_TITLE'									=> 'Créer Compte',
+  'LBL_SEARCH_FORM_TITLE' => 'Rechercher un Compte',
+	'LNK_NEW_ACCOUNT'										=> 'Créer Compte',
+	'LNK_NEW_CALL'											=> 'Planifier Appel',
+  'LNK_NEW_CASE' => 'Créer Ticket',
+  'LNK_NEW_CONTACT' => 'Créer Contact',
+	'LNK_NEW_EMAIL'											=> 'Archiver Email',
+	'LNK_NEW_MEETING'										=> 'Planifier Réunion',
+  'LNK_NEW_NOTE' => 'Créer Note',
+  'LNK_NEW_OPPORTUNITY' => 'Créer une Affaire',
+	'LNK_NEW_TASK'											=> 'Créer Tâche',
 );
-
-
-?>

@@ -70,7 +70,7 @@ $mod_strings = array (
 		  'top_module' => 'Top Module Accessed',
 		  'total_count' => 'Total Page Views',
 		  'total_login_time' => 'Time (hh:mm:ss)',
-		  'user_name' => 'Username',
+		  'user_name' => 'Tên đăng nhập',
 		  'users' => 'Users',
 		  
 		  //Administration related labels
