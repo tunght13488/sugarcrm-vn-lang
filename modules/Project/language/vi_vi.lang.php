@@ -3,31 +3,31 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 /*********************************************************************************
  * SugarCRM Community Edition is a customer relationship management program developed by
  * SugarCRM, Inc. Copyright (C) 2004-2013 SugarCRM Inc.
- * 
+ *
  * This program is free software; you can redistribute it and/or modify it under
  * the terms of the GNU Affero General Public License version 3 as published by the
  * Free Software Foundation with the addition of the following permission added
  * to Section 15 as permitted in Section 7(a): FOR ANY PART OF THE COVERED WORK
  * IN WHICH THE COPYRIGHT IS OWNED BY SUGARCRM, SUGARCRM DISCLAIMS THE WARRANTY
  * OF NON INFRINGEMENT OF THIRD PARTY RIGHTS.
- * 
+ *
  * This program is distributed in the hope that it will be useful, but WITHOUT
  * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
  * FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more
  * details.
- * 
+ *
  * You should have received a copy of the GNU Affero General Public License along with
  * this program; if not, see http://www.gnu.org/licenses or write to the Free
  * Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
  * 02110-1301 USA.
- * 
+ *
  * You can contact SugarCRM, Inc. headquarters at 10050 North Wolfe Road,
  * SW2-130, Cupertino, CA 95014, USA. or at email address contact@sugarcrm.com.
- * 
+ *
  * The interactive user interfaces in modified source and object code versions
  * of this program must display Appropriate Legal Notices, as required under
  * Section 5 of the GNU Affero General Public License version 3.
- * 
+ *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
  * these Appropriate Legal Notices must retain the display of the "Powered by
  * SugarCRM" logo. If the display of the logo is not reasonably feasible for
@@ -49,13 +49,13 @@ $mod_strings = array (
 	'LBL_DATE_ENTERED' => 'Date Created:',
 	'LBL_DATE_MODIFIED' => 'Date Modified:',
 	'LBL_ASSIGNED_USER_ID' => 'Assigned To:',
-    'LBL_ASSIGNED_USER_NAME' => 'Assigned to:',
+    'LBL_ASSIGNED_USER_NAME' => 'Đã giao cho:',
 	'LBL_MODIFIED_USER_ID' => 'Modified User Id:',
 	'LBL_CREATED_BY' => 'Created By:',
 	'LBL_TEAM_ID' => 'Team:',
 	'LBL_NAME' => 'Name:',
     'LBL_PDF_PROJECT_NAME' => 'Project Name:',
-	'LBL_DESCRIPTION' => 'Description:',
+	'LBL_DESCRIPTION' => 'Mô tả:',
 	'LBL_DELETED' => 'Deleted:',
     'LBL_DATE' => 'Date:',
 	'LBL_DATE_START' => 'Start Date:',
@@ -64,7 +64,7 @@ $mod_strings = array (
     'LBL_STATUS' => 'Status:',
     'LBL_MY_PROJECTS' => 'My Projects',
     'LBL_MY_PROJECT_TASKS' => 'My Project Tasks',
-    
+
 	'LBL_TOTAL_ESTIMATED_EFFORT' => 'Total Estimated Effort (hrs):',
 	'LBL_TOTAL_ACTUAL_EFFORT' => 'Total Actual Effort (hrs):',
 
@@ -78,7 +78,7 @@ $mod_strings = array (
     'LBL_LIST_OPEN_CASES' => 'Open Cases',
     'LBL_LIST_END_DATE' => 'End Date',
     'LBL_LIST_TEAM_ID' => 'Team',
-    
+
 
 	'LBL_PROJECT_SUBPANEL_TITLE' => 'Projects',
 	'LBL_PROJECT_TASK_SUBPANEL_TITLE' => 'Project Tasks',
@@ -96,13 +96,13 @@ $mod_strings = array (
 	'LNK_PROJECT_LIST'	=> 'View Project List',
 	'LNK_NEW_PROJECT_TASK'	=> 'Create Project Task',
 	'LNK_PROJECT_TASK_LIST'	=> 'View Project Tasks',
-	
+
 	'LBL_DEFAULT_SUBPANEL_TITLE' => 'Projects',
 	'LBL_ACTIVITIES_TITLE'=>'Activities',
     'LBL_ACTIVITIES_SUBPANEL_TITLE'=>'Activities',
 	'LBL_HISTORY_SUBPANEL_TITLE'=>'History',
 	'LBL_QUICK_NEW_PROJECT'	=> 'New Project',
-	
+
 	'LBL_PROJECT_TASKS_SUBPANEL_TITLE' => 'Project Tasks',
 	'LBL_CONTACTS_SUBPANEL_TITLE' => 'Contacts',
 	'LBL_ACCOUNTS_SUBPANEL_TITLE' => 'Accounts',
@@ -110,7 +110,7 @@ $mod_strings = array (
     'LBL_CASES_SUBPANEL_TITLE' => 'Cases',
     'LBL_BUGS_SUBPANEL_TITLE' => 'Bugs',
     'LBL_PRODUCTS_SUBPANEL_TITLE' => 'Products',
-    
+
 
     'LBL_TASK_ID' => 'ID',
     'LBL_TASK_NAME' => 'Task Name',
@@ -131,7 +131,7 @@ $mod_strings = array (
     'LBL_PREDECESSORS_WIDGET' => 'predecessors_',
     'LBL_PERCENT_COMPLETE_WIDGET' => 'percent_complete',
     'LBL_EDIT_PROJECT_TASKS_TITLE'=> 'Edit Project Tasks',
-    
+
     'LBL_OPPORTUNITIES' => 'Opportunities',
 	'LBL_LAST_WEEK' => 'Previous',
 	'LBL_NEXT_WEEK' => 'Next',

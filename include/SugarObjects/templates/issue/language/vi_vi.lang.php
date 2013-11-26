@@ -50,7 +50,7 @@ $mod_strings = array(
     'LBL_NUMBER' => 'Number:',
     'LBL_STATUS' => 'Status:',
     'LBL_PRIORITY' => 'Priority:',
-    'LBL_DESCRIPTION' => 'Description:',
+    'LBL_DESCRIPTION' => 'Mô tả:',
     'LBL_RESOLUTION' => 'Resolution',
     'LBL_LAST_MODIFIED' => 'Last Modified',
     'LBL_ASSIGNED_TO_ID' => 'Assigned To:',
@@ -63,7 +63,7 @@ $mod_strings = array(
     'LBL_MODIFIED_BY' => 'Last Modified by:',
     'LBL_ASSIGNED_USER' => 'Assigned User:',
     'LBL_SYSTEM_ID' => 'System Id:',
-    'LBL_TYPE' => 'Type:',
+    'LBL_TYPE' => 'Loại:',
     'LBL_SUBJECT' => 'Subject:',
 
     'LBL_EDIT_BUTTON' => 'Edit',

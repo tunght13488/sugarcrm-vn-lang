@@ -3,31 +3,31 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 /*********************************************************************************
  * SugarCRM Community Edition is a customer relationship management program developed by
  * SugarCRM, Inc. Copyright (C) 2004-2013 SugarCRM Inc.
- * 
+ *
  * This program is free software; you can redistribute it and/or modify it under
  * the terms of the GNU Affero General Public License version 3 as published by the
  * Free Software Foundation with the addition of the following permission added
  * to Section 15 as permitted in Section 7(a): FOR ANY PART OF THE COVERED WORK
  * IN WHICH THE COPYRIGHT IS OWNED BY SUGARCRM, SUGARCRM DISCLAIMS THE WARRANTY
  * OF NON INFRINGEMENT OF THIRD PARTY RIGHTS.
- * 
+ *
  * This program is distributed in the hope that it will be useful, but WITHOUT
  * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
  * FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more
  * details.
- * 
+ *
  * You should have received a copy of the GNU Affero General Public License along with
  * this program; if not, see http://www.gnu.org/licenses or write to the Free
  * Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
  * 02110-1301 USA.
- * 
+ *
  * You can contact SugarCRM, Inc. headquarters at 10050 North Wolfe Road,
  * SW2-130, Cupertino, CA 95014, USA. or at email address contact@sugarcrm.com.
- * 
+ *
  * The interactive user interfaces in modified source and object code versions
  * of this program must display Appropriate Legal Notices, as required under
  * Section 5 of the GNU Affero General Public License version 3.
- * 
+ *
  * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
  * these Appropriate Legal Notices must retain the display of the "Powered by
  * SugarCRM" logo. If the display of the logo is not reasonably feasible for
@@ -56,7 +56,7 @@ $mod_strings = array (
     'ERR_DELETE_RECORD' => 'en_us A record number must be specified to delete the lead.',
     'LBL_ACCOUNT_DESCRIPTION'=> 'Account Description',
     'LBL_ACCOUNT_ID'=>'Account ID',
-    'LBL_ACCOUNT_NAME' => 'Account Name:',
+    'LBL_ACCOUNT_NAME' => 'Tên tài khoản:',
     'LBL_ACTIVITIES_SUBPANEL_TITLE'=>'Activities',
     'LBL_ADD_BUSINESSCARD' => 'Add Business Card',
     'LBL_ADDRESS_INFORMATION' => 'Address Information',
@@ -102,7 +102,7 @@ $mod_strings = array (
     'LBL_DEFAULT_SUBPANEL_TITLE' => 'Leads',
     'LBL_DEPARTMENT' => 'Department:',
     'LBL_DESCRIPTION_INFORMATION' => 'Description Information',
-    'LBL_DESCRIPTION' => 'Description:',
+    'LBL_DESCRIPTION' => 'Mô tả:',
     'LBL_DO_NOT_CALL' => 'Do Not Call:',
     'LBL_DUPLICATE' => 'Similar Leads',
     'LBL_EMAIL_ADDRESS' => 'Email Address:',
@@ -130,7 +130,7 @@ $mod_strings = array (
     'LBL_LIST_DATE_ENTERED' => 'Date Created',
     'LBL_LIST_EMAIL_ADDRESS' => 'Email',
     'LBL_LIST_FIRST_NAME' => 'First Name',
-    'LBL_VIEW_FORM_TITLE' => 'Lead View',    
+    'LBL_VIEW_FORM_TITLE' => 'Lead View',
     'LBL_LIST_FORM_TITLE' => 'Lead List',
     'LBL_LIST_LAST_NAME' => 'Last Name',
     'LBL_LIST_LEAD_SOURCE_DESCRIPTION' => 'Lead Source Description',
@@ -167,7 +167,7 @@ $mod_strings = array (
     'LBL_PRIMARY_ADDRESS_POSTALCODE' => 'Primary Address Postalcode',
     'LBL_PRIMARY_ADDRESS_STATE' => 'Primary Address State',
     'LBL_PRIMARY_ADDRESS_STREET_2'=>'Primary Address Street 2',
-    'LBL_PRIMARY_ADDRESS_STREET_3'=>'Primary Address Street 3',   
+    'LBL_PRIMARY_ADDRESS_STREET_3'=>'Primary Address Street 3',
     'LBL_PRIMARY_ADDRESS_STREET' => 'Primary Address Street',
     'LBL_PRIMARY_ADDRESS' => 'Primary Address:',
     'LBL_REFERED_BY' => 'Referred By:',
@@ -178,7 +178,7 @@ $mod_strings = array (
     'LBL_MODIFIED'=>'Modified By',
 	'LBL_MODIFIED_ID'=>'Modified By Id',
 	'LBL_CREATED'=>'Created By',
-	'LBL_CREATED_ID'=>'Created By Id',    
+	'LBL_CREATED_ID'=>'Created By Id',
     'LBL_SEARCH_FORM_TITLE' => 'Lead Search',
     'LBL_SELECT_CHECKED_BUTTON_LABEL' => 'Select Checked Leads',
     'LBL_SELECT_CHECKED_BUTTON_TITLE' => 'Select Checked Leads',
@@ -223,7 +223,7 @@ $mod_strings = array (
     'LBL_ASSISTANT' => 'Assistant',
     'LBL_REGISTRATION' => 'Registration',
     'LBL_MESSAGE' => 'Please enter your information below. Information and/or an account will be created for you pending approval.',
-    'LBL_SAVED' => 'Thank you for registering. Your account will be created and someone will contact you shortly.', 
+    'LBL_SAVED' => 'Thank you for registering. Your account will be created and someone will contact you shortly.',
     'LBL_CLICK_TO_RETURN' => 'Return to Portal',
     'LBL_CREATED_USER' => 'Created User',
     'LBL_MODIFIED_USER' => 'Modified User',

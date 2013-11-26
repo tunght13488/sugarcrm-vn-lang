@@ -362,7 +362,7 @@ $app_list_strings = array(
         ),
     'meeting_type_dom' =>
         array(
-            'Other' => 'Other',
+            'Other' => 'Khác',
             'Sugar' => 'SugarCRM',
         ),
     'call_status_default' => 'Planned',
@@ -1585,7 +1585,7 @@ $app_strings = array(
     'LBL_SMTPTYPE_GMAIL' => 'Gmail',
     'LBL_SMTPTYPE_YAHOO' => 'Yahoo! Mail',
     'LBL_SMTPTYPE_EXCHANGE' => 'Microsoft Exchange',
-    'LBL_SMTPTYPE_OTHER' => 'Other',
+    'LBL_SMTPTYPE_OTHER' => 'Khác',
     'LBL_EMAIL_SPACER_MAIL_SERVER' => '[ Remote Folders ]',
     'LBL_EMAIL_SPACER_LOCAL_FOLDER' => '[ Sugar Folders ]',
     'LBL_EMAIL_SUBJECT' => 'Subject',
@@ -1882,7 +1882,7 @@ $app_strings = array(
     'LBL_OPPORTUNITY' => 'Opportunity',
     'LBL_OR' => 'OR',
     'LBL_LOWER_OR' => 'or',
-    'LBL_PANEL_ASSIGNMENT' => 'Other',
+    'LBL_PANEL_ASSIGNMENT' => 'Khác',
     'LBL_PANEL_ADVANCED' => 'More Information',
     'LBL_PARENT_TYPE' => 'Parent Type',
     'LBL_PERCENTAGE_SYMBOL' => '%',

@@ -54,7 +54,7 @@ $mod_strings = array(
     'LBL_DOCUMENT_ID' => 'Document ID',
     'LBL_NAME' => 'Document Name',
     'LBL_DESCRIPTION' => 'Description',
-    'LBL_ASSIGNED_TO' => 'Assigned to:',
+    'LBL_ASSIGNED_TO' => 'Đã giao cho:',
     'LBL_CATEGORY' => 'Category',
     'LBL_SUBCATEGORY' => 'Sub Category',
     'LBL_STATUS' => 'Status',
@@ -82,7 +82,7 @@ $mod_strings = array(
     'LBL_SUBCATEGORY_VALUE' => 'Sub Category:',
     'LBL_DOC_STATUS' => 'Status:',
     'LBL_DET_TEMPLATE_TYPE' => 'Document Type:',
-    'LBL_DOC_DESCRIPTION' => 'Description:',
+    'LBL_DOC_DESCRIPTION' => 'Mô tả:',
     'LBL_DOC_ACTIVE_DATE' => 'Publish Date:',
     'LBL_DOC_EXP_DATE' => 'Expiration Date:',
 
