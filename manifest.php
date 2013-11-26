@@ -33,23 +33,22 @@
 $manifest = array(
 
     // only install on the following sugar versions (if empty, no check)
-    array (
-        'exact_matches' => array (
-        ),
-        'regex_matches' => array (
+    array(
+        'exact_matches' => array(),
+        'regex_matches' => array(
             0 => '6\.5\.16'
         ),
     ),
 
     // Version for which this langpack can work
-    'acceptable_sugar_flavors' => array (
+    'acceptable_sugar_flavors' => array(
         0 => 'CE',
     ),
 
     // Name of the Pack
-    'name' => 'CSEC - ChuyenNguVietnam',
+    'name' => 'Vietnamese Language Pack',
 
-    'id'=> 'CSEC_VI',
+    'id' => 'Rocco_VI',
 
     'lang_file_suffix' => 'vi_VI',
 
@@ -57,13 +56,13 @@ $manifest = array(
     'description' => 'Chuyển ngôn ngữ sang tiếng Việt trên versions 6.5.x',
 
     // Author of new code
-    'author' => 'Synolia.com',
+    'author' => 'rocco',
 
     // Date published
-    'published_date' => '2013/04/10',
+    'published_date' => '2013/11/26',
 
     // Version of code
-    'version' => '6512-130410',
+    'version' => '6515-131126',
 
     // Type of code (valid choices are: full, langpack, module, patch, theme )
     'type' => 'langpack',
