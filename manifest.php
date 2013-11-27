@@ -62,7 +62,7 @@ $manifest = array(
     'published_date' => '2013/11/28',
 
     // Version of code
-    'version' => '6515-131128',
+    'version' => '6515-131128-013629',
 
     // Type of code (valid choices are: full, langpack, module, patch, theme )
     'type' => 'langpack',
