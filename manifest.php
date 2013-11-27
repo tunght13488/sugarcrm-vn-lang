@@ -59,10 +59,10 @@ $manifest = array(
     'author' => 'rocco',
 
     // Date published
-    'published_date' => '2013/11/26',
+    'published_date' => '2013/11/28',
 
     // Version of code
-    'version' => '6515-131126',
+    'version' => '6515-131128',
 
     // Type of code (valid choices are: full, langpack, module, patch, theme )
     'type' => 'langpack',
